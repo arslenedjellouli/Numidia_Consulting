@@ -104,8 +104,9 @@ traditional web server.
 
 ## Business information
 
-**Numidia Consulting**  
-20, Rue Akmoun Akli, Cité Berchiche  
+**Numidia Consulting**
+
+20, Rue Akmoun Akli, Cité Berchiche
 El-Kseur, Wilaya de Béjaïa, Algeria
 
 - Phone: [+213 (0) 5 55 55 28 64](tel:+213555552864)
